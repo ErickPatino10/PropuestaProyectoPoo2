@@ -1,9 +1,9 @@
 package org.example.propuestaproyecto.DAO;
 
-package dao;
+
 
 import modelo.Cliente;
-
+import util.Conexion;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
